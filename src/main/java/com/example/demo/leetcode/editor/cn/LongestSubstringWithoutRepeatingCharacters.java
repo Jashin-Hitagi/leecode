@@ -1,4 +1,4 @@
-package leetcode.editor.cn;
+package com.example.demo.leetcode.editor.cn;
 
 //给定一个字符串 s ，请你找出其中不含有重复字符的 最长子串 的长度。 
 //
@@ -55,7 +55,7 @@ public class LongestSubstringWithoutRepeatingCharacters{
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-
+        return 0;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
